@@ -1,0 +1,23 @@
+#######################################
+# Motor Control Library for simple DC
+# Motors using the L293 motor driver
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Motor	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setMotorVel	KEYWORD2
+setLeftMotorSpeed	KEYWORD2
+setRightMotorSpeed	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
